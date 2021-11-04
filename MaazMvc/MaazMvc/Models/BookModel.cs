@@ -7,6 +7,7 @@ namespace MaazMvc.Models
 {
     public class BookModel
     {
+        public string FullName { get; set; }
         public int Id { get; set; }
         public string title { get; set; }
         public string author { get; set; }
