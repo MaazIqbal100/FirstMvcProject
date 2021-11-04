@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\WonderTree Asus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\WonderTree Asus\\.nuget\\packages"
+    ]
+  }
+}
