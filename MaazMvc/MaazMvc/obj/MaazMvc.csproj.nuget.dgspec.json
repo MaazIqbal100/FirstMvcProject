@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WonderTree Asus\\source\\repos\\MaazMvc\\MaazMvc\\MaazMvc.csproj": {}
+    "C:\\Users\\WonderTree Asus\\Documents\\GitHub\\FirstMvcProject\\MaazMvc\\MaazMvc\\MaazMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WonderTree Asus\\source\\repos\\MaazMvc\\MaazMvc\\MaazMvc.csproj": {
+    "C:\\Users\\WonderTree Asus\\Documents\\GitHub\\FirstMvcProject\\MaazMvc\\MaazMvc\\MaazMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WonderTree Asus\\source\\repos\\MaazMvc\\MaazMvc\\MaazMvc.csproj",
+        "projectUniqueName": "C:\\Users\\WonderTree Asus\\Documents\\GitHub\\FirstMvcProject\\MaazMvc\\MaazMvc\\MaazMvc.csproj",
         "projectName": "MaazMvc",
-        "projectPath": "C:\\Users\\WonderTree Asus\\source\\repos\\MaazMvc\\MaazMvc\\MaazMvc.csproj",
+        "projectPath": "C:\\Users\\WonderTree Asus\\Documents\\GitHub\\FirstMvcProject\\MaazMvc\\MaazMvc\\MaazMvc.csproj",
         "packagesPath": "C:\\Users\\WonderTree Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WonderTree Asus\\source\\repos\\MaazMvc\\MaazMvc\\obj\\",
+        "outputPath": "C:\\Users\\WonderTree Asus\\Documents\\GitHub\\FirstMvcProject\\MaazMvc\\MaazMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\WonderTree Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
